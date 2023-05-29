@@ -1,7 +1,8 @@
 Кони Видовиќ, бр. на индекс 213019
 
 Control Flow Graph
-![finalnoSI](https://github.com/koni-v/-SI_2023_lab2_213019/assets/125313042/ca6ce9fa-5d69-4106-9395-f4fa77fb152e)
+![finalnoSI](https://github.com/koni-v/-SI_2023_lab2_213019/assets/125313042/d630482e-529d-40c4-893b-d85930f3e498)
+
 
 
 Цикломатска комплексност
@@ -17,7 +18,8 @@ Control Flow Graph
 3) user.getUserName()==null, username=email, еmail->не содржи (.), password->не е повеќе од 8 карактери
 4) password->со празно место
 5) user!=null, email->содржи (@) и (.), се совпаѓаат username и emails, password->НЕ содржи специјални знаци       и е без празни места
-![SILab excel](https://github.com/koni-v/-SI_2023_lab2_213019/assets/125313042/4bf58bf1-0aa0-4026-a8e4-5800c4183153)
+![SILab excel](https://github.com/koni-v/-SI_2023_lab2_213019/assets/125313042/5b8a4294-dd6e-4059-9c3e-d1ed49ffd73a)
+
 
 
 Тест случаи според критериумот Multiple Condition
